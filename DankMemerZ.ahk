@@ -17,7 +17,7 @@ else
 Start:
 Sleep, 10000
 Send, pls search {Enter}
-Sleep, 100
+Sleep, 500
 Send, grass {Enter}
 Sleep, 100
 Send, pls beg {Enter}
